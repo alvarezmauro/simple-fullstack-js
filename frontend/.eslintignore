@@ -1,0 +1,10 @@
+dist/*
+public
+node_modules
+tailwind.config.js
+prettier.config.js
+vite.config.ts
+*.json
+*.yml
+*.yaml
+*.snap

@@ -1,0 +1,11 @@
+dist/*
+public
+node_modules
+next.config.mjs
+tailwind.config.js
+prettier.config.js
+craco.config.js
+*.json
+*.yml
+*.yaml
+*.snap

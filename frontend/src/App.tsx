@@ -18,9 +18,9 @@ function App() {
   }, []);
 
   return (
-    <body>
-      <p>{data}</p>
-    </body>
+    <>
+      <div className="w-screen h-screen">{data}</div>
+    </>
   );
 }
 
